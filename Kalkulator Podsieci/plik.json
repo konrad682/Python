@@ -1,0 +1,12 @@
+Adress sieci binary: 00001011.10000000.00000000.00000000
+Adress sieci binary: 11.128.0.0
+Klasa sieci: A
+Maska sieci binary: 11111111.11110000.00000000.00000000
+Maska sieci binary: 255.240.0.0
+Adres Broadcast binary: 00001011.10001111.11111111.11111111
+Adres Broadcast binary: 11.143.255.255
+Min host adres binary: 00001011.10000000.00000000.00000001
+Min host adres binary: 11.128.0.1
+Max host adres binary: 00001011.10001111.11111111.11111110
+Max host adres binary: 11.143.255.254
+Maaksymalna ilosc hostow: 1048574
