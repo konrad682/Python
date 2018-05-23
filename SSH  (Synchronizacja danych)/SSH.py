@@ -74,7 +74,7 @@ def main():
     elif  choice == '3':
         add_not_existing(LocalFolder,RemoteFolder,JsonFile,SFTP)
     else:
-        print("Dont choose anything option")
+        print("You don't select any option")
 
     SFTP.close()
     client.close()
