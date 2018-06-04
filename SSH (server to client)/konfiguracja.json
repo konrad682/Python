@@ -1,0 +1,17 @@
+{
+"local_folder": "./ssh_folder",
+ "remote_folder": "./zadanie_4",
+ "server_addres": "sendzimir.metal.agh.edu.pl",
+ "port": 22,
+ "username": "kwedzich",
+ "mode": "overwrite|update|add_non_existing",
+ "ignore" : ["bmp","jpg","png"]
+}
+
+
+
+
+
+
+
+
